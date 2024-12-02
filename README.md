@@ -20,3 +20,16 @@ proximity detection)
 The prototype was assembled and tested to ensure the proper functioning 
 of the trash level detection, automatic lid control, and user interface through 
 the Blynk App. 
+
+
+OUTPUT OF BLYNK APP   
+
+WEB CONSOLE:        
+
+![Screenshot 2024-12-02 184111](https://github.com/user-attachments/assets/3c79e534-45f3-4056-83ca-e0740586ccb4)        
+
+MOBILE CONSOLE:      
+
+![Screenshot 2024-12-02 184122](https://github.com/user-attachments/assets/eabf13c4-54a3-4fc4-b47a-34afb42781a0)
+
+
